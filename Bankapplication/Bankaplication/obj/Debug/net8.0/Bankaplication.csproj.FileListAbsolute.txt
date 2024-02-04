@@ -1,0 +1,44 @@
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankaplication\Bankaplication\bin\Debug\net8.0\Bankaplication.exe
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankaplication\Bankaplication\bin\Debug\net8.0\Bankaplication.deps.json
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankaplication\Bankaplication\bin\Debug\net8.0\Bankaplication.runtimeconfig.json
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankaplication\Bankaplication\bin\Debug\net8.0\Bankaplication.dll
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankaplication\Bankaplication\bin\Debug\net8.0\Bankaplication.pdb
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankaplication\Bankaplication\obj\Debug\net8.0\Bankaplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankaplication\Bankaplication\obj\Debug\net8.0\Bankaplication.AssemblyInfoInputs.cache
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankaplication\Bankaplication\obj\Debug\net8.0\Bankaplication.AssemblyInfo.cs
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankaplication\Bankaplication\obj\Debug\net8.0\Bankaplication.csproj.CoreCompileInputs.cache
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankaplication\Bankaplication\obj\Debug\net8.0\Bankaplication.dll
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankaplication\Bankaplication\obj\Debug\net8.0\refint\Bankaplication.dll
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankaplication\Bankaplication\obj\Debug\net8.0\Bankaplication.pdb
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankaplication\Bankaplication\obj\Debug\net8.0\Bankaplication.genruntimeconfig.cache
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankaplication\Bankaplication\obj\Debug\net8.0\ref\Bankaplication.dll
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankapplication\Bankaplication\obj\Debug\net8.0\Bankaplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankapplication\Bankaplication\obj\Debug\net8.0\Bankaplication.AssemblyInfoInputs.cache
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankapplication\Bankaplication\obj\Debug\net8.0\Bankaplication.AssemblyInfo.cs
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankapplication\Bankaplication\obj\Debug\net8.0\Bankaplication.csproj.CoreCompileInputs.cache
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankapplication\Bankaplication\obj\Debug\net8.0\Bankaplication.sourcelink.json
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankapplication\Bankaplication\obj\Debug\net8.0\Bankaplication.dll
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankapplication\Bankaplication\obj\Debug\net8.0\refint\Bankaplication.dll
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankapplication\Bankaplication\obj\Debug\net8.0\Bankaplication.pdb
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankapplication\Bankaplication\bin\Debug\net8.0\Bankaplication.exe
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankapplication\Bankaplication\bin\Debug\net8.0\Bankaplication.deps.json
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankapplication\Bankaplication\bin\Debug\net8.0\Bankaplication.runtimeconfig.json
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankapplication\Bankaplication\bin\Debug\net8.0\Bankaplication.dll
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankapplication\Bankaplication\bin\Debug\net8.0\Bankaplication.pdb
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankapplication\Bankaplication\obj\Debug\net8.0\Bankaplication.genruntimeconfig.cache
+C:\Users\Mevek PC's\Desktop\studia\podsprogram\Bankapplication\Bankaplication\obj\Debug\net8.0\ref\Bankaplication.dll
+C:\Users\Mevek\Desktop\Bankapk\Bankapplication\Bankaplication\bin\Debug\net8.0\Bankaplication.exe
+C:\Users\Mevek\Desktop\Bankapk\Bankapplication\Bankaplication\bin\Debug\net8.0\Bankaplication.deps.json
+C:\Users\Mevek\Desktop\Bankapk\Bankapplication\Bankaplication\bin\Debug\net8.0\Bankaplication.runtimeconfig.json
+C:\Users\Mevek\Desktop\Bankapk\Bankapplication\Bankaplication\bin\Debug\net8.0\Bankaplication.dll
+C:\Users\Mevek\Desktop\Bankapk\Bankapplication\Bankaplication\bin\Debug\net8.0\Bankaplication.pdb
+C:\Users\Mevek\Desktop\Bankapk\Bankapplication\Bankaplication\obj\Debug\net8.0\Bankaplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mevek\Desktop\Bankapk\Bankapplication\Bankaplication\obj\Debug\net8.0\Bankaplication.AssemblyInfoInputs.cache
+C:\Users\Mevek\Desktop\Bankapk\Bankapplication\Bankaplication\obj\Debug\net8.0\Bankaplication.AssemblyInfo.cs
+C:\Users\Mevek\Desktop\Bankapk\Bankapplication\Bankaplication\obj\Debug\net8.0\Bankaplication.csproj.CoreCompileInputs.cache
+C:\Users\Mevek\Desktop\Bankapk\Bankapplication\Bankaplication\obj\Debug\net8.0\Bankaplication.sourcelink.json
+C:\Users\Mevek\Desktop\Bankapk\Bankapplication\Bankaplication\obj\Debug\net8.0\Bankaplication.dll
+C:\Users\Mevek\Desktop\Bankapk\Bankapplication\Bankaplication\obj\Debug\net8.0\refint\Bankaplication.dll
+C:\Users\Mevek\Desktop\Bankapk\Bankapplication\Bankaplication\obj\Debug\net8.0\Bankaplication.pdb
+C:\Users\Mevek\Desktop\Bankapk\Bankapplication\Bankaplication\obj\Debug\net8.0\Bankaplication.genruntimeconfig.cache
+C:\Users\Mevek\Desktop\Bankapk\Bankapplication\Bankaplication\obj\Debug\net8.0\ref\Bankaplication.dll
